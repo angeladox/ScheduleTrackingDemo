@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.5">
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\HttpClientFactoryBean.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\HttpException.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\impl\MRSConceptAdapterImpl.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\impl\MRSEncounterAdapterImpl.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\impl\MRSFacilityAdapterImpl.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\impl\MRSObservationAdapterImpl.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\impl\MRSPatientAdapterImpl.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\impl\MRSPersonAdapterImpl.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\impl\MRSUserAdapterImpl.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\impl\SpringRestfulClientImpl.java">
+<error line="82" severity="warning" message="Line matches the illegal pattern &apos;System.out.println&apos;." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\model\Attribute.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\model\AttributeTypeListResult.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\model\Concept.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\model\ConceptListResult.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\model\Encounter.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\model\EncounterListResult.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\model\Identifier.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\model\IdentifierType.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\model\Location.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\model\LocationListResult.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\model\Observation.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\model\ObservationListResult.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\model\Patient.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\model\PatientIdentifierListResult.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\model\PatientListResult.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\model\Person.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\model\Role.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\model\RoleListResult.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\model\User.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\model\UserListResult.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\RestClient.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\util\ConverterUtils.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\util\DateUtil.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\util\JsonUtils.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-ws\src\main\java\org\motechproject\openmrs\rest\util\OpenMrsUrlHolder.java">
+</file>
+</checkstyle>

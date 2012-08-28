@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.5">
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-cmslite-api\src\main\java\org\motechproject\cmslite\api\model\CMSLiteException.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-cmslite-api\src\main\java\org\motechproject\cmslite\api\model\Content.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-cmslite-api\src\main\java\org\motechproject\cmslite\api\model\ContentNotFoundException.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-cmslite-api\src\main\java\org\motechproject\cmslite\api\model\StreamContent.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-cmslite-api\src\main\java\org\motechproject\cmslite\api\model\StringContent.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-cmslite-api\src\main\java\org\motechproject\cmslite\api\repository\AllStreamContents.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-cmslite-api\src\main\java\org\motechproject\cmslite\api\repository\AllStringContents.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-cmslite-api\src\main\java\org\motechproject\cmslite\api\repository\BaseContentRepository.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-cmslite-api\src\main\java\org\motechproject\cmslite\api\service\CMSLiteService.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-cmslite-api\src\main\java\org\motechproject\cmslite\api\service\CMSLiteServiceImpl.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-cmslite-api\src\main\java\org\motechproject\cmslite\api\web\ResourceController.java">
+<error line="9" column="8" severity="info" message="Unused import - org.springframework.context.ApplicationContext." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="10" column="8" severity="info" message="Unused import - org.springframework.context.support.ClassPathXmlApplicationContext." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="15" column="8" severity="info" message="Unused import - javax.servlet.http.HttpServlet." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="27" column="32" severity="info" message="&apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="34" column="61" severity="info" message="&apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="38" column="26" severity="info" message="&apos;=&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="38" column="27" severity="info" message="&apos;=&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-cmslite-api\src\main\java\org\motechproject\cmslite\api\web\ResourceQuery.java">
+</file>
+</checkstyle>

@@ -1,0 +1,7 @@
+{
+    "serverUrl":"http://api.voxeo.net/SessionControl/CCXML10.start",
+    "applications":{
+                "platform":"platform",
+                "scheduleTrackingDemo":"131a71a99323734cae0bf7aadc794ba6fb1b41fc6a1f50b53c446e39c41f238a8fb3be64ebd26696b740f1a3"                
+            }
+}

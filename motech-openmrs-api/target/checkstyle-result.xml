@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.5">
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-api\src\main\java\org\motechproject\openmrs\advice\ApiSession.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-api\src\main\java\org\motechproject\openmrs\advice\ApiSessionAdvice.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-api\src\main\java\org\motechproject\openmrs\advice\LoginAsAdmin.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-api\src\main\java\org\motechproject\openmrs\advice\LoginAsAdminAdvice.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-api\src\main\java\org\motechproject\openmrs\Context.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-api\src\main\java\org\motechproject\openmrs\helper\PatientHelper.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-api\src\main\java\org\motechproject\openmrs\IdentifierType.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-api\src\main\java\org\motechproject\openmrs\model\PatientType.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-api\src\main\java\org\motechproject\openmrs\security\OpenMRSAuthenticationProvider.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-api\src\main\java\org\motechproject\openmrs\security\OpenMRSSecurityUser.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-api\src\main\java\org\motechproject\openmrs\security\OpenMRSSession.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-api\src\main\java\org\motechproject\openmrs\services\OpenMRSConceptAdapter.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-api\src\main\java\org\motechproject\openmrs\services\OpenMRSEncounterAdapter.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-api\src\main\java\org\motechproject\openmrs\services\OpenMRSFacilityAdapter.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-api\src\main\java\org\motechproject\openmrs\services\OpenMRSObservationAdapter.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-api\src\main\java\org\motechproject\openmrs\services\OpenMRSPatientAdapter.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-api\src\main\java\org\motechproject\openmrs\services\OpenMRSPersonAdapter.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-api\src\main\java\org\motechproject\openmrs\services\OpenMRSRelationshipAdapter.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-openmrs-api\src\main\java\org\motechproject\openmrs\services\OpenMRSUserAdapter.java">
+</file>
+</checkstyle>

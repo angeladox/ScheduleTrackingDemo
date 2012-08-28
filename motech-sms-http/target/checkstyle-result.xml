@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.5">
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-sms-http\src\main\java\org\motechproject\sms\http\domain\HttpMethodType.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-sms-http\src\main\java\org\motechproject\sms\http\service\SmsAuditServiceImpl.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-sms-http\src\main\java\org\motechproject\sms\http\service\SmsHttpService.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-sms-http\src\main\java\org\motechproject\sms\http\SmsDeliveryFailureException.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-sms-http\src\main\java\org\motechproject\sms\http\SmsSendHandler.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-sms-http\src\main\java\org\motechproject\sms\http\template\Authentication.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-sms-http\src\main\java\org\motechproject\sms\http\template\Incoming.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-sms-http\src\main\java\org\motechproject\sms\http\template\Outgoing.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-sms-http\src\main\java\org\motechproject\sms\http\template\Request.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-sms-http\src\main\java\org\motechproject\sms\http\template\Response.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-sms-http\src\main\java\org\motechproject\sms\http\template\SmsHttpTemplate.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-sms-http\src\main\java\org\motechproject\sms\http\TemplateReader.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-sms-http\src\main\java\org\motechproject\sms\http\web\InboundSmsController.java">
+</file>
+</checkstyle>

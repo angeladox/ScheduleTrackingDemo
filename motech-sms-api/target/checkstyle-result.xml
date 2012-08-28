@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.5">
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-sms-api\src\main\java\org\motechproject\sms\api\constants\EventDataKeys.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-sms-api\src\main\java\org\motechproject\sms\api\constants\EventSubjects.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-sms-api\src\main\java\org\motechproject\sms\api\DeliveryStatus.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-sms-api\src\main\java\org\motechproject\sms\api\MessageSplitter.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-sms-api\src\main\java\org\motechproject\sms\api\service\SmsAuditService.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-sms-api\src\main\java\org\motechproject\sms\api\service\SmsService.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-sms-api\src\main\java\org\motechproject\sms\api\service\SmsServiceImpl.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-sms-api\src\main\java\org\motechproject\sms\api\SmsEventHandler.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-sms-api\src\main\java\org\motechproject\sms\api\SMSRecord.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-sms-api\src\main\java\org\motechproject\sms\api\SMSType.java">
+</file>
+</checkstyle>

@@ -1,0 +1,7 @@
+{
+    "serverUrl":"http://api.voxeo.net/SessionControl/CCXML10.start",
+    "applications":{
+                "platform":"platform",
+                "campaignDemo":"0cfbefecb166d741b9e54d043661a857d394f065d96c9d5416c2da4a0324a24e59b4a511a7450e15d50ecd59"
+            }
+}

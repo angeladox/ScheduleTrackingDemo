@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.5">
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-ivr-voxeo\src\main\java\org\motechproject\server\voxeo\config\ConfigReader.java">
+<error line="26" column="108" severity="info" message="&apos;}&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-ivr-voxeo\src\main\java\org\motechproject\server\voxeo\config\VoxeoConfig.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-ivr-voxeo\src\main\java\org\motechproject\server\voxeo\dao\AllPhoneCalls.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-ivr-voxeo\src\main\java\org\motechproject\server\voxeo\domain\PhoneCall.java">
+<error line="88" column="67" severity="info" message="&apos;1000&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-ivr-voxeo\src\main\java\org\motechproject\server\voxeo\domain\PhoneCallEvent.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-ivr-voxeo\src\main\java\org\motechproject\server\voxeo\VoxeoIVRService.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-ivr-voxeo\src\main\java\org\motechproject\server\voxeo\web\CcxmlController.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-ivr-voxeo\src\main\java\org\motechproject\server\voxeo\web\IvrController.java">
+<error line="60" severity="info" message="Comment matches to-do format &apos;TODO:&apos;." source="com.puppycrawl.tools.checkstyle.checks.TodoCommentCheck"/>
+<error line="114" severity="info" message="Comment matches to-do format &apos;TODO:&apos;." source="com.puppycrawl.tools.checkstyle.checks.TodoCommentCheck"/>
+<error line="170" severity="info" message="Comment matches to-do format &apos;TODO:&apos;." source="com.puppycrawl.tools.checkstyle.checks.TodoCommentCheck"/>
+</file>
+</checkstyle>

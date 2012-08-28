@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.5">
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\callbacks\FormGroupPublisher.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\callbacks\FormParser.java">
+<error line="36" column="24" severity="warning" message="Variable &apos;formProviders&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="60" column="16" severity="info" message="&apos;for&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\callbacks\FormPublishHandler.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\domain\Form.java">
+<error line="107" column="17" severity="warning" message="&apos;formId&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\domain\FormBean.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\domain\FormBeanGroup.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\domain\FormError.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\domain\FormGroup.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\domain\FormGroupValidator.java">
+<error line="15" column="8" severity="info" message="Unused import - org.springframework.beans.factory.annotation.Autowired." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="16" column="8" severity="info" message="Unused import - org.springframework.beans.factory.annotation.Qualifier." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="17" column="8" severity="info" message="Unused import - org.springframework.stereotype.Component." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="37" column="28" severity="info" message="&apos;for&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\domain\FormOutput.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\parser\FormDataParser.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\repository\AllMobileForms.java">
+<error line="42" severity="info" message="&apos;for&apos; construct must use &apos;{}&apos;s." source="com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck"/>
+<error line="43" severity="info" message="&apos;for&apos; construct must use &apos;{}&apos;s." source="com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck"/>
+<error line="44" severity="info" message="&apos;if&apos; construct must use &apos;{}&apos;s." source="com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck"/>
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\service\FormProvider.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\service\MobileFormsService.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\service\MobileFormsServiceImpl.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\service\UsersService.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\service\UsersServiceImpl.java">
+<error line="29" column="37" severity="info" message="&apos;{&apos; is followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.NoWhitespaceAfterCheck"/>
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\utils\CollectionUtils.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\utils\Encoder.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\utils\IOUtils.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\utils\MapToBeanConvertor.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\validator\annotations\MaxLength.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\validator\annotations\RegEx.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\validator\annotations\Required.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\validator\annotations\ValidationMarker.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\validator\FieldValidator.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\validator\FormValidator.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\validator\MaxLengthValidator.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\validator\RegExValidator.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\validator\RequiredValidator.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\vo\Study.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\web\BaseFormServlet.java">
+<error line="4" column="8" severity="info" message="Unused import - org.motechproject.mobileforms.api.callbacks.FormGroupPublisher." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="5" column="8" severity="info" message="Unused import - org.motechproject.mobileforms.api.callbacks.FormParser." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="8" severity="info" message="Unused import - org.motechproject.mobileforms.api.domain.FormBean." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="7" column="8" severity="info" message="Unused import - org.motechproject.mobileforms.api.domain.FormGroupValidator." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="8" column="8" severity="info" message="Unused import - org.motechproject.mobileforms.api.domain.FormOutput." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="9" column="8" severity="info" message="Unused import - org.motechproject.mobileforms.api.parser.FormDataParser." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="10" column="8" severity="info" message="Unused import - org.motechproject.mobileforms.api.repository.AllMobileForms." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="11" column="8" severity="info" message="Unused import - org.motechproject.mobileforms.api.service.MobileFormsService." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="12" column="8" severity="info" message="Unused import - org.motechproject.mobileforms.api.service.UsersService." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="13" column="8" severity="info" message="Unused import - org.motechproject.mobileforms.api.utils.MapToBeanConvertor." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="14" column="8" severity="info" message="Unused import - org.motechproject.mobileforms.api.validator.FormValidator." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="15" column="8" severity="info" message="Unused import - org.springframework.context.ApplicationContext." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="16" column="8" severity="info" message="Unused import - org.springframework.context.support.ClassPathXmlApplicationContext." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="18" column="8" severity="info" message="Unused import - javax.servlet.ServletException." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="19" column="8" severity="info" message="Unused import - javax.servlet.http.HttpServlet." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="20" column="8" severity="info" message="Unused import - javax.servlet.http.HttpServletRequest." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="21" column="8" severity="info" message="Unused import - javax.servlet.http.HttpServletResponse." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="24" column="8" severity="info" message="Unused import - java.util.Enumeration." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="25" column="8" severity="info" message="Unused import - java.util.HashMap." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="26" column="8" severity="info" message="Unused import - java.util.Map." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="27" column="8" severity="info" message="Unused import - java.util.Properties." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\web\FormDownloadServlet.java">
+</file>
+<file name="C:\Projects\ScheduleTracking8212\motech-usm\motech-mobileforms-api\src\main\java\org\motechproject\mobileforms\api\web\FormUploadServlet.java">
+<error line="41" column="33" severity="warning" message="Name &apos;log&apos; must match pattern &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+</checkstyle>
